@@ -41,7 +41,7 @@ namespace Tyuiu.IvanovJD.Sprint4.Task4.V4
 
             int[,] mas = new int[rows, columns];
             
-            Console.WriteLine("***************************************************************************");
+            Console.WriteLine("****************************************************************************");
 
             for (int i = 0; i < rows; i++)
             {
